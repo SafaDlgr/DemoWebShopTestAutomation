@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","878","Başarısız kullancı giriş kontrolü.","Surefire suite","Thu Nov 07 19:57:20 GMT+03:00 2024","passed","Thu Nov 07 19:57:21 GMT+03:00 2024","LoginTests","Surefire test","LoginTests","loginUnsuccesfullControl"
+"","428","Hatalı email giriş kontrolü.","Surefire suite","Thu Nov 07 19:57:24 GMT+03:00 2024","passed","Thu Nov 07 19:57:25 GMT+03:00 2024","LoginTests","Surefire test","LoginTests","loginWrongMailControl"
+"","1003","Required kontrolü.","Surefire suite","Thu Nov 07 19:57:11 GMT+03:00 2024","passed","Thu Nov 07 19:57:12 GMT+03:00 2024","LoginTests","Surefire test","LoginTests","loginRequiredControl"
+"","2068","Kadın kullancı oluşturma kontrolü.","Surefire suite","Thu Nov 07 19:57:29 GMT+03:00 2024","passed","Thu Nov 07 19:57:31 GMT+03:00 2024","RegisterTests","Surefire test","RegisterTests","registerControlFemale"
+"","1157","Başarılı kullancı giriş kontrolü.","Surefire suite","Thu Nov 07 19:57:16 GMT+03:00 2024","passed","Thu Nov 07 19:57:17 GMT+03:00 2024","LoginTests","Surefire test","LoginTests","loginSuccesfullControl"
+"","2739","Erkek kullanıcı oluşturma kontrolü.","Surefire suite","Thu Nov 07 19:57:34 GMT+03:00 2024","passed","Thu Nov 07 19:57:37 GMT+03:00 2024","RegisterTests","Surefire test","RegisterTests","registerControlMale"
